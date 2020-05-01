@@ -5,6 +5,8 @@ Nesse curso é ensinado como contribuir com projetos de codigos aberto
 
 link para o curso[python pro](https://www.python.pro.br)
 
+Suportata versão 3 de python
+
 Tópicos a serem abordados:
 1. Git
 2. Virtualenv
